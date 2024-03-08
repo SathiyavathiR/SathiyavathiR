@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Sathiyavathi. I am a data professional.<b>
@@ -39,10 +39,10 @@
 </a>
 
 <a href=" https://www.public.tableau.com/username">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+  <img align="center" src="https://public.tableau.com/app/profile/sathiyavathi.anandkumar/vizzes"  />
 </a>
 
-<a href="mailto: ">  
+<a href="mailto:sathyakrish2723@gmail.com ">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
@@ -50,4 +50,4 @@
 
 
 
--->
+
