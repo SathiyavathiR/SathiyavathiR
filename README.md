@@ -34,12 +34,12 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/user-name/">
-  <img align="center" src="https://www.linkedin.com/in/sathiyavathi-anandkumar-7a7333bb/" />
+<a href="https://www.linkedin.com/in/sathiyavathi-anandkumar-7a7333bb/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href=" https://www.public.tableau.com/username">
-  <img align="center" src="https://public.tableau.com/app/profile/sathiyavathi.anandkumar/vizzes"  />
+<a href="https://public.tableau.com/app/profile/sathiyavathi.anandkumar/vizzes">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
 <a href="mailto:sathyakrish2723@gmail.com ">  
